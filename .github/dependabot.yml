@@ -19,11 +19,11 @@ updates:
     groups:
       npm-minor:
         patterns:
-          "*"
+          - "*"
         update-types:
           - 'minor'
       npm-patch:
         patterns:
-          "*"
+          - "*"
         update-types:
           - 'patch'
